@@ -17,7 +17,8 @@ Apenas foi sugerida a área de atuação do personagem e a IA se encarregou de t
 
 ## 🚀 Resultados
 
-![7a92fcb6-c815-4178-8b11-cce546095612](https://github.com/user-attachments/assets/b1570bd4-88fd-4ffa-8bd6-8413ece6b85e)
+![7a92fcb6-c815-4178-8b11-cce546095612](https://github.com/user-attachments/assets/40bcbaa1-859b-447d-ab0d-3b45135b626f)
+
 
 Lucas Andrade é um especialista em tecnologia e inovação conhecido por sua habilidade em traduzir conceitos complexos em linguagem acessível. Com 38 anos, ele é formado em Engenharia de Software e possui uma vasta experiência em desenvolvimento de soluções de inteligência artificial e automação para grandes empresas. Ao longo de sua carreira, Lucas fundou duas startups voltadas para tecnologias sustentáveis e agora trabalha como consultor de inovação, ajudando empresas a implementarem estratégias tecnológicas para otimizar operações. Além de seu trabalho, ele é um entusiasta por educação digital, e frequentemente participa de podcasts e palestras, compartilhando insights sobre o futuro da tecnologia e suas implicações para a sociedade.
 
