@@ -1,6 +1,4 @@
-
-
-
+![7a92fcb6-c815-4178-8b11-cce546095612](https://github.com/user-attachments/assets/9e818d9c-15da-4bb6-86a2-ac3e55780360)
 
 
 ```markdown
